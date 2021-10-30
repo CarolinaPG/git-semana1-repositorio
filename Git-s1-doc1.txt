@@ -1,1 +1,2 @@
-Este es el texto del primer documento
+Este es el texto del primer documento 
+Esto es un texto para modificar y agregar al primer archivo que se creó. 
